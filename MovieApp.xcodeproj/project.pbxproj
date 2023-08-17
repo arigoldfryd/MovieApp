@@ -17,7 +17,6 @@
 		B0FCCE292A8E6D3300D0384D /* DiscoveryService.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0FCCDFB2A8E6D3300D0384D /* DiscoveryService.swift */; };
 		B0FCCE2A2A8E6D3300D0384D /* SearchService.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0FCCDFC2A8E6D3300D0384D /* SearchService.swift */; };
 		B0FCCE2B2A8E6D3300D0384D /* LocalClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0FCCDFE2A8E6D3300D0384D /* LocalClient.swift */; };
-		B0FCCE2C2A8E6D3300D0384D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B0FCCE002A8E6D3300D0384D /* Preview Assets.xcassets */; };
 		B0FCCE2D2A8E6D3300D0384D /* SearchViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0FCCE042A8E6D3300D0384D /* SearchViewModel.swift */; };
 		B0FCCE2E2A8E6D3300D0384D /* SearchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0FCCE062A8E6D3300D0384D /* SearchView.swift */; };
 		B0FCCE2F2A8E6D3300D0384D /* SearchCellView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0FCCE072A8E6D3300D0384D /* SearchCellView.swift */; };
@@ -60,8 +59,6 @@
 		B0FCCE742A8E6DA500D0384D /* MockGenreService.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0FCCE602A8E6DA500D0384D /* MockGenreService.swift */; };
 		B0FCCE772A8E6DE800D0384D /* Nuke in Frameworks */ = {isa = PBXBuildFile; productRef = B0FCCE762A8E6DE800D0384D /* Nuke */; };
 		B0FCCE792A8E6DE800D0384D /* NukeUI in Frameworks */ = {isa = PBXBuildFile; productRef = B0FCCE782A8E6DE800D0384D /* NukeUI */; };
-		B0FCCE822A8E74B200D0384D /* Debug.plist in Resources */ = {isa = PBXBuildFile; fileRef = B0FCCE812A8E74B200D0384D /* Debug.plist */; };
-		B0FCCE842A8E760700D0384D /* Test.plist in Resources */ = {isa = PBXBuildFile; fileRef = B0FCCE7F2A8E748500D0384D /* Test.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -575,8 +572,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B0FCCE822A8E74B200D0384D /* Debug.plist in Resources */,
-				B0FCCE2C2A8E6D3300D0384D /* Preview Assets.xcassets in Resources */,
 				B0FCCDD32A8E6BE700D0384D /* Preview Assets.xcassets in Resources */,
 				B0FCCDD02A8E6BE700D0384D /* Assets.xcassets in Resources */,
 			);
@@ -586,7 +581,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B0FCCE842A8E760700D0384D /* Test.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
