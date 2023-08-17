@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "B8498A50-E695-4286-9D6E-2C07D542455A",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "testTimeoutsEnabled" : true
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:MovieApp.xcodeproj",
+        "identifier" : "B0FCCDD72A8E6BE700D0384D",
+        "name" : "MovieAppTests"
+      }
+    }
+  ],
+  "version" : 1
+}
